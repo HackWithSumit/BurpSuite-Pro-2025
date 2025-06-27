@@ -31,10 +31,3 @@
 - For Start Menu Entry, copy `Burp-Suite-Pro.vbs` file to 
 
       C:\ProgramData\Microsoft\Windows\Start Menu\Programs\
-
-
- <details><summary>Credit</summary>
-
-* Loader.jar 👉 
-* Script 👉
-</details>
